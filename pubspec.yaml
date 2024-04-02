@@ -3,7 +3,7 @@ description: "Hover Material Button is a Flutter package that provides a Materia
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/hover_material_button
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -40,4 +40,6 @@ dev_dependencies:
   screenutil_module: ^1.0.0+1
 
 flutter:
+  assets:
+    - assets/view/hover_material_button/feedback-svgrepo-com.svg
   uses-material-design: true

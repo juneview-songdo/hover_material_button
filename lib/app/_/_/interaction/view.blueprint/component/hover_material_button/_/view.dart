@@ -63,7 +63,7 @@ class NewViewState extends State<NewView> with StateMother {
                     fontWeight: FontWeight.bold),
               ),
               SvgPicture.asset(
-                'assets/app/feedback-svgrepo-com.svg',
+                'assets/view/hover_material_button/feedback-svgrepo-com.svg',
                 width: 15,
                 height: 15,
                 color: _isHovering ? Colors.blue : Colors.white,
