@@ -1,7 +1,7 @@
 name: hover_material_button
 description: "Hover Material Button is a Flutter package that provides a Material Button that can be hovered over to show a tooltip."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/hover_material_button
 
 version: 1.0.0+1
 
